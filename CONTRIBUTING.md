@@ -26,7 +26,7 @@ new features, this guide will help you get started. 🎉
 - Use clear, descriptive variable names (student_name, start_time, etc.)
 - Add comments to describe blocks of logic.
 
-- ## Need help or have ideas?
+## Need help or have ideas?
 
 - Check the open issues first.
   - If your problem is there, add a comment or up-vote.
